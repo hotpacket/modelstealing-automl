@@ -17,7 +17,9 @@ The black-box model provides buy/sell recommendations based on stock market data
 #### Methodology
 I created a dataset from public stock price data (TSLA.csv), and submitted it to the black-box model, and recorded its recommendations as the classification (label) I want my model to duplicate.
 
-I tried four classification model types to create the stolen model: K-nearest neighbors, logistic regression, decision trees, and support vector machines.
+I used AutoGluon to create the model.
+
+This notebook is designed to be run in Google Colab. The paid version of Colab ($10/month) is necessary to use the console, which is required to use this notebook. Console access lets us run the Docker image and interact witht the target model residing there that we want to steal.
 
 #### Results
 I demonstrated that I was able to create a 100% accurate copy of the target model without any access to its source code or training data. 
