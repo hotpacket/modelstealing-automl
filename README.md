@@ -27,5 +27,5 @@ In the future, I would like to target more sophisticated models. In particular, 
 
 #### Outline of project
 
-[Jupyter Notebook](https://github.com/hotpacket/modelstealing-automl/blob/main/steal-stonks.ipynb)
+[Jupyter Notebook](https://github.com/hotpacket/modelstealing-automl/blob/main/ModelStealer.ipynb)
 
